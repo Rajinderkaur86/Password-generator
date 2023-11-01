@@ -83,4 +83,5 @@ div.password {
 }
 .copy:hover {
   cursor: pointer;
+  background-color: #f9b572;
 }
